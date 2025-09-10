@@ -40,10 +40,11 @@ The goal: find top customers, revenue trends and product statistics
 ### 5️⃣ Top Customer by Total Spending
 **Query:** see sales_analysis.sql  
 **Result:**  
-![Top Customer](05_top_customer.png)
+![Top Customer](05_top_customer..png)
 
 ## Insights
 - Asha is the top customer
 - Electronics category generates the highest revenue
 - Most expensive item purchased: Laptop
+
 
