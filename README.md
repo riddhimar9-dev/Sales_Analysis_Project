@@ -18,27 +18,27 @@ The goal: find top customers, revenue trends and product statistics
 ## Queries & Results
 
 ### 1️⃣ Total Sales per Order
-**Query:** see sales_analysis.sql  
+**Query:** see Sales_Analysis_Project.sql  
 **Result:**  
 ![Total Sales per Order](01_total_sales_per_order.png)
 
 ### 2️⃣ Total Revenue per Customer
-**Query:** see sales_analysis.sql  
+**Query:** see Sales_Analysis_Project.sql  
 **Result:**  
 ![Total Revenue per Customer](02_total_revenue_per_customer.png)
 
 ### 3️⃣ Number of Products per Category
-**Query:** see sales_analysis.sql  
+**Query:** see Sales_Analysis_Project.sql  
 **Result:**  
 ![Products per Category](03_products_per_category.png)
 
 ### 4️⃣ Most Expensive Product Purchased
-**Query:** see sales_analysis.sql  
+**Query:** see Sales_Analysis_Project.sql  
 **Result:**  
 ![Most Expensive Product](04_most_expensive_product.png)
 
 ### 5️⃣ Top Customer by Total Spending
-**Query:** see sales_analysis.sql  
+**Query:** see Sales_Analysis_Project.sql  
 **Result:**  
 ![Top Customer](05_top_customer..png)
 
@@ -46,5 +46,6 @@ The goal: find top customers, revenue trends and product statistics
 - Asha is the top customer
 - Electronics category generates the highest revenue
 - Most expensive item purchased: Laptop
+
 
 
